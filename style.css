@@ -1,0 +1,35 @@
+body {
+    font-family:Verdana, Tahoma, sans-serif;
+}
+
+.marginpadding {
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+.title-main {
+    margin: 20px 0px;
+    font-size: 30px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.color-blue {
+    color: blue;
+}
+
+.background-blue {
+    background-color: blue;
+    color: white;  
+}
+
+ul {
+    text-decoration: underline;
+}
+
+.background-black {
+    background-color: black;
+    color: white;
+}
